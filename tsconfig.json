@@ -1,0 +1,49 @@
+{
+    "compilerOptions": {
+      "target": "ESNext",
+      "module": "ESNext",
+      "jsx": "react",
+      "moduleResolution": "node",
+      "esModuleInterop": true,
+      "baseUrl": "./",
+      "outDir": "dist",
+      "lib": [
+        "dom",
+        "dom.iterable",
+        "esnext"
+      ],
+      "allowJs": false,
+      "skipLibCheck": true,
+      "allowSyntheticDefaultImports": true,
+      "strict": true,
+      "forceConsistentCasingInFileNames": true,
+      "isolatedModules": true,
+      "noEmit": true,
+      "experimentalDecorators": true,
+      "preserveWatchOutput": true,
+      "resolveJsonModule": true,
+      "types": ["vitest/globals", "@testing-library/jest-dom"],
+      "paths": {
+        "@/*": ["src/*"],
+        "@layout/*": ["src/layout/*"],
+        "@pages/*": ["src/pages/*"],
+        "@components/*": ["src/components/*"],
+        "@assets/*": ["src/assets/*"],
+        "@api/*": ["src/api"],
+        "@@/*": ["server.src/*"],
+        "@@resource/*": ["server.src/resource"],
+        "@@service/*": ["server.src/service"],
+        "@@config/*": ["server.src/config"],
+        "@@middleware/*": ["server.src/middleware"]
+      }
+    },
+    "include": [
+      "src/**/*",
+      "server.src/**/*",
+      "vite",
+      "src/global.d.ts"
+    ],
+    "ts-node": {
+      "require": ["tsconfig-paths/register"]
+    }
+  }

@@ -1,0 +1,964 @@
+2025-01-23 17:38:16:3816 undefined [35mhttp[39m: [35mGET /portfolio/2 200 4.064 ms[39m
+[35m[39m
+2025-01-23 17:44:56:4456 undefined [35mhttp[39m: [35mGET /api/index.ts 404 3.289 ms[39m
+[35m[39m
+2025-01-23 17:45:01:451 undefined [35mhttp[39m: [35mGET /api/index.ts 404 1.219 ms[39m
+[35m[39m
+2025-01-23 17:45:16:4516 undefined [35mhttp[39m: [35mGET /api/index.ts 404 0.421 ms[39m
+[35m[39m
+2025-01-23 17:47:41:4741 undefined [35mhttp[39m: [35mGET /index.ts 404 1.652 ms[39m
+[35m[39m
+2025-01-23 17:47:43:4743 undefined [35mhttp[39m: [35mGET /index.ts 404 0.669 ms[39m
+[35m[39m
+2025-01-23 17:48:24:4824 undefined [35mhttp[39m: [35mGET /index.ts 404 0.946 ms[39m
+[35m[39m
+2025-01-23 17:51:45:5145 undefined [35mhttp[39m: [35mGET /index.ts 404 3.942 ms[39m
+[35m[39m
+2025-01-23 17:51:50:5150 undefined [35mhttp[39m: [35mGET /index.ts 404 0.786 ms[39m
+[35m[39m
+2025-01-23 17:51:51:5151 undefined [35mhttp[39m: [35mGET /index.ts 404 0.186 ms[39m
+[35m[39m
+2025-01-23 17:52:24:5224 undefined [35mhttp[39m: [35mGET /index.ts 404 0.475 ms[39m
+[35m[39m
+2025-01-23 17:52:28:5228 undefined [35mhttp[39m: [35mGET /index.ts 404 3.084 ms[39m
+[35m[39m
+2025-01-23 17:53:37:5337 undefined [35mhttp[39m: [35mGET /index.ts 404 1.425 ms[39m
+[35m[39m
+2025-01-23 17:53:38:5338 undefined [35mhttp[39m: [35mGET /index.ts 404 0.530 ms[39m
+[35m[39m
+2025-01-23 17:54:34:5434 undefined [35mhttp[39m: [35mGET /index.ts?t=1737672871363 404 0.328 ms[39m
+[35m[39m
+2025-01-23 17:54:51:5451 undefined [35mhttp[39m: [35mGET /index.ts?t=1737672888912 404 0.807 ms[39m
+[35m[39m
+2025-01-23 17:54:59:5459 undefined [35mhttp[39m: [35mGET /index.ts?t=1737672896840 404 1.244 ms[39m
+[35m[39m
+2025-01-23 17:55:18:5518 undefined [35mhttp[39m: [35mGET /index.ts?t=1737672909530 404 0.673 ms[39m
+[35m[39m
+2025-01-23 17:55:29:5529 undefined [35mhttp[39m: [35mGET /index.ts?t=1737672909530 404 0.738 ms[39m
+[35m[39m
+2025-01-23 17:55:35:5535 undefined [35mhttp[39m: [35mGET /index.ts?t=1737672909530 404 0.274 ms[39m
+[35m[39m
+2025-01-23 17:55:35:5535 undefined [35mhttp[39m: [35mGET /index.ts?t=1737672909530 404 0.409 ms[39m
+[35m[39m
+2025-01-23 17:55:36:5536 undefined [35mhttp[39m: [35mGET /index.ts?t=1737672909530 404 0.523 ms[39m
+[35m[39m
+2025-01-23 17:55:47:5547 undefined [35mhttp[39m: [35mGET /index.ts?t=1737672909530 404 0.732 ms[39m
+[35m[39m
+2025-01-23 17:56:54:5654 undefined [35mhttp[39m: [35mGET /index.ts?t=1737672909530 404 0.844 ms[39m
+[35m[39m
+2025-01-23 17:56:58:5658 undefined [35mhttp[39m: [35mGET /index.ts?t=1737672909530 404 0.386 ms[39m
+[35m[39m
+2025-01-23 17:56:59:5659 undefined [35mhttp[39m: [35mGET /index.ts?t=1737672909530 404 1.389 ms[39m
+[35m[39m
+2025-01-23 17:56:59:5659 undefined [35mhttp[39m: [35mGET /index.ts?t=1737672909530 404 0.238 ms[39m
+[35m[39m
+2025-01-23 17:58:24:5824 undefined [35mhttp[39m: [35mGET /index.ts?t=1737672909530 404 6.983 ms[39m
+[35m[39m
+2025-01-23 18:03:01:31 undefined [35mhttp[39m: [35mGET /portfolio/2 200 11.729 ms[39m
+[35m[39m
+2025-01-23 18:04:40:440 undefined [35mhttp[39m: [35mGET /portfolio/2 200 14.064 ms[39m
+[35m[39m
+2025-01-23 18:07:09:79 undefined [35mhttp[39m: [35mGET /portfolio/2 200 5.148 ms[39m
+[35m[39m
+2025-01-23 18:08:11:811 undefined [35mhttp[39m: [35mGET /api/portfolio/2 200 3.531 ms[39m
+[35m[39m
+2025-01-23 18:08:39:839 undefined [35mhttp[39m: [35mGET /api/index.ts 404 0.646 ms[39m
+[35m[39m
+2025-01-23 18:08:39:839 undefined [35mhttp[39m: [35mGET /api/index.ts 404 0.496 ms[39m
+[35m[39m
+2025-01-23 18:08:47:847 undefined [35mhttp[39m: [35mGET /api/index.ts 404 1.284 ms[39m
+[35m[39m
+2025-01-23 18:08:52:852 undefined [35mhttp[39m: [35mGET /api/index.ts 404 1.035 ms[39m
+[35m[39m
+2025-01-23 18:09:07:97 undefined [35mhttp[39m: [35mGET /api/index.ts 404 1.384 ms[39m
+[35m[39m
+2025-01-23 18:09:20:920 undefined [35mhttp[39m: [35mGET /api/index.ts 404 1.302 ms[39m
+[35m[39m
+2025-01-23 18:11:14:1114 undefined [35mhttp[39m: [35mGET /api/portfolio/2 200 4.036 ms[39m
+[35m[39m
+2025-01-23 18:11:21:1121 undefined [35mhttp[39m: [35mGET /api/portfolio/2/breakdown 200 4.076 ms[39m
+[35m[39m
+2025-01-23 18:11:32:1132 undefined [35mhttp[39m: [35mGET /api/index.ts 404 1.322 ms[39m
+[35m[39m
+2025-01-23 18:11:37:1137 undefined [35mhttp[39m: [35mGET /api/index.ts 404 2.200 ms[39m
+[35m[39m
+2025-01-23 18:11:39:1139 undefined [35mhttp[39m: [35mGET /api/index.ts 404 5.162 ms[39m
+[35m[39m
+2025-01-23 18:14:47:1447 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 44.701 ms[39m
+[35m[39m
+2025-01-23 18:14:54:1454 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 2.012 ms[39m
+[35m[39m
+2025-01-23 18:18:02:182 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 1.143 ms[39m
+[35m[39m
+2025-01-23 18:22:07:227 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 33.289 ms[39m
+[35m[39m
+2025-01-23 18:23:09:239 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 11.386 ms[39m
+[35m[39m
+2025-01-23 18:23:11:2311 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 2.182 ms[39m
+[35m[39m
+2025-01-23 18:23:34:2334 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 5.362 ms[39m
+[35m[39m
+2025-01-23 18:23:35:2335 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 2.357 ms[39m
+[35m[39m
+2025-01-23 18:23:54:2354 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 1.012 ms[39m
+[35m[39m
+2025-01-23 18:23:57:2357 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 1.854 ms[39m
+[35m[39m
+2025-01-23 18:24:13:2413 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 49.928 ms[39m
+[35m[39m
+2025-01-23 18:24:18:2418 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 1.638 ms[39m
+[35m[39m
+2025-01-23 18:24:24:2424 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 1.485 ms[39m
+[35m[39m
+2025-01-23 18:24:24:2424 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 0.975 ms[39m
+[35m[39m
+2025-01-23 18:24:35:2435 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 1.977 ms[39m
+[35m[39m
+2025-01-23 18:24:37:2437 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 4.114 ms[39m
+[35m[39m
+2025-01-23 18:24:38:2438 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 1.860 ms[39m
+[35m[39m
+2025-01-23 18:24:45:2445 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 2.104 ms[39m
+[35m[39m
+2025-01-23 18:24:49:2449 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 1.897 ms[39m
+[35m[39m
+2025-01-23 18:25:38:2538 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 0.971 ms[39m
+[35m[39m
+2025-01-23 18:25:41:2541 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 0.804 ms[39m
+[35m[39m
+2025-01-23 18:26:09:269 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 1.901 ms[39m
+[35m[39m
+2025-01-23 18:26:11:2611 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 0.661 ms[39m
+[35m[39m
+2025-01-23 18:26:19:2619 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 0.848 ms[39m
+[35m[39m
+2025-01-23 18:26:39:2639 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 0.759 ms[39m
+[35m[39m
+2025-01-23 18:28:05:285 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 12.756 ms[39m
+[35m[39m
+2025-01-23 18:30:58:3058 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 16.154 ms[39m
+[35m[39m
+2025-01-23 18:32:29:3229 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 4.985 ms[39m
+[35m[39m
+2025-01-23 18:32:31:3231 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 1.783 ms[39m
+[35m[39m
+2025-01-23 18:32:33:3233 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 1.143 ms[39m
+[35m[39m
+2025-01-23 18:32:35:3235 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 1.403 ms[39m
+[35m[39m
+2025-01-23 18:45:06:456 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 21.935 ms[39m
+[35m[39m
+2025-01-23 19:22:44:2244 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 2.472 ms[39m
+[35m[39m
+2025-01-23 19:31:46:3146 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1Y 200 6.802 ms[39m
+[35m[39m
+2025-01-23 19:31:52:3152 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1Y 304 3.631 ms[39m
+[35m[39m
+2025-01-23 19:32:03:323 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 1.766 ms[39m
+[35m[39m
+2025-01-23 19:32:09:329 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 1.508 ms[39m
+[35m[39m
+2025-01-23 19:32:47:3247 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 7.013 ms[39m
+[35m[39m
+2025-01-23 19:33:57:3357 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 3.978 ms[39m
+[35m[39m
+2025-01-23 19:35:40:3540 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 5.306 ms[39m
+[35m[39m
+2025-01-23 19:37:25:3725 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 1.805 ms[39m
+[35m[39m
+2025-01-23 19:46:24:4624 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 2.878 ms[39m
+[35m[39m
+2025-01-23 19:53:27:5327 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 5.250 ms[39m
+[35m[39m
+2025-01-23 19:56:05:565 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 4.204 ms[39m
+[35m[39m
+2025-01-23 19:56:11:5611 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 2.443 ms[39m
+[35m[39m
+2025-01-23 19:56:11:5611 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 0.909 ms[39m
+[35m[39m
+2025-01-23 19:57:21:5721 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 1.734 ms[39m
+[35m[39m
+2025-01-23 19:57:23:5723 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 5.520 ms[39m
+[35m[39m
+2025-01-23 19:57:24:5724 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 1.822 ms[39m
+[35m[39m
+2025-01-23 19:58:11:5811 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 2.620 ms[39m
+[35m[39m
+2025-01-23 19:58:11:5811 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/10 200 0.356 ms[39m
+[35m[39m
+2025-01-23 19:58:14:5814 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 2.575 ms[39m
+[35m[39m
+2025-01-23 19:58:14:5814 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 2.263 ms[39m
+[35m[39m
+2025-01-23 19:58:19:5819 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/3 200 1.481 ms[39m
+[35m[39m
+2025-01-23 19:58:20:5820 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/5 200 0.977 ms[39m
+[35m[39m
+2025-01-23 19:58:21:5821 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/10 200 0.611 ms[39m
+[35m[39m
+2025-01-23 19:59:09:599 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 3.261 ms[39m
+[35m[39m
+2025-01-23 20:00:03:03 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/3 200 3.007 ms[39m
+[35m[39m
+2025-01-23 20:03:08:38 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 2.476 ms[39m
+[35m[39m
+2025-01-23 20:03:08:38 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 1.266 ms[39m
+[35m[39m
+2025-01-23 20:03:10:310 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/3 200 1.109 ms[39m
+[35m[39m
+2025-01-23 20:03:11:311 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/5 200 1.985 ms[39m
+[35m[39m
+2025-01-23 20:03:12:312 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/10 200 0.855 ms[39m
+[35m[39m
+2025-01-23 20:03:30:330 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/5 200 1.936 ms[39m
+[35m[39m
+2025-01-23 20:03:40:340 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 7.301 ms[39m
+[35m[39m
+2025-01-23 20:03:40:340 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 0.680 ms[39m
+[35m[39m
+2025-01-23 20:04:05:45 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/3 200 5.878 ms[39m
+[35m[39m
+2025-01-23 20:04:06:46 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/5 200 2.587 ms[39m
+[35m[39m
+2025-01-23 20:04:07:47 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/3 200 0.963 ms[39m
+[35m[39m
+2025-01-23 20:04:08:48 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 1.147 ms[39m
+[35m[39m
+2025-01-23 20:04:09:49 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/3 200 0.985 ms[39m
+[35m[39m
+2025-01-23 20:04:10:410 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/5 200 0.997 ms[39m
+[35m[39m
+2025-01-23 20:04:11:411 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/10 200 1.891 ms[39m
+[35m[39m
+2025-01-23 20:09:00:90 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/3 200 8.498 ms[39m
+[35m[39m
+2025-01-23 20:09:01:91 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/5 200 1.862 ms[39m
+[35m[39m
+2025-01-23 20:09:04:94 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/10 200 2.240 ms[39m
+[35m[39m
+2025-01-23 20:09:06:96 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 1.607 ms[39m
+[35m[39m
+2025-01-23 20:09:14:914 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/3 200 1.494 ms[39m
+[35m[39m
+2025-01-23 20:09:41:941 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 1.388 ms[39m
+[35m[39m
+2025-01-23 20:09:42:942 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/5 200 1.760 ms[39m
+[35m[39m
+2025-01-23 20:09:43:943 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/10 200 0.577 ms[39m
+[35m[39m
+2025-01-23 20:09:46:946 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/5 200 1.446 ms[39m
+[35m[39m
+2025-01-23 20:09:48:948 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 1.311 ms[39m
+[35m[39m
+2025-01-23 20:10:34:1034 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 3.289 ms[39m
+[35m[39m
+2025-01-23 20:16:44:1644 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 8.422 ms[39m
+[35m[39m
+2025-01-23 20:16:48:1648 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 5.371 ms[39m
+[35m[39m
+2025-01-23 20:16:48:1648 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 8.131 ms[39m
+[35m[39m
+2025-01-23 20:16:48:1648 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 0.877 ms[39m
+[35m[39m
+2025-01-23 20:22:09:229 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 5.799 ms[39m
+[35m[39m
+2025-01-23 20:22:12:2212 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 0.878 ms[39m
+[35m[39m
+2025-01-23 20:22:12:2212 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 3.510 ms[39m
+[35m[39m
+2025-01-23 20:22:12:2212 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 1.351 ms[39m
+[35m[39m
+2025-01-23 20:27:06:276 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 2.759 ms[39m
+[35m[39m
+2025-01-23 20:27:06:276 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 0.753 ms[39m
+[35m[39m
+2025-01-23 20:27:06:276 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 2.279 ms[39m
+[35m[39m
+2025-01-23 20:27:15:2715 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 7.889 ms[39m
+[35m[39m
+2025-01-23 20:27:15:2715 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 0.778 ms[39m
+[35m[39m
+2025-01-23 20:27:15:2715 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 1.140 ms[39m
+[35m[39m
+2025-01-23 20:34:44:3444 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 2.515 ms[39m
+[35m[39m
+2025-01-23 20:34:44:3444 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 1.163 ms[39m
+[35m[39m
+2025-01-23 20:34:44:3444 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 1.589 ms[39m
+[35m[39m
+2025-01-23 20:35:10:3510 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 1.238 ms[39m
+[35m[39m
+2025-01-23 20:35:12:3512 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 1.709 ms[39m
+[35m[39m
+2025-01-23 20:35:12:3512 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 0.427 ms[39m
+[35m[39m
+2025-01-23 20:35:12:3512 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 0.604 ms[39m
+[35m[39m
+2025-01-23 20:38:47:3847 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 1.243 ms[39m
+[35m[39m
+2025-01-23 20:41:47:4147 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 4.695 ms[39m
+[35m[39m
+2025-01-23 20:42:14:4214 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 1.421 ms[39m
+[35m[39m
+2025-01-23 20:43:39:4339 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 1.510 ms[39m
+[35m[39m
+2025-01-23 20:44:08:448 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 17.420 ms[39m
+[35m[39m
+2025-01-23 20:44:16:4416 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 9.246 ms[39m
+[35m[39m
+2025-01-23 20:44:36:4436 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 2.399 ms[39m
+[35m[39m
+2025-01-23 20:45:00:450 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 6.416 ms[39m
+[35m[39m
+2025-01-23 20:45:00:450 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 0.957 ms[39m
+[35m[39m
+2025-01-23 20:45:00:450 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 3.356 ms[39m
+[35m[39m
+2025-01-23 20:45:05:455 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/10 200 1.448 ms[39m
+[35m[39m
+2025-01-23 20:45:20:4520 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 1.743 ms[39m
+[35m[39m
+2025-01-23 20:45:49:4549 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 3.584 ms[39m
+[35m[39m
+2025-01-23 20:45:49:4549 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 1.334 ms[39m
+[35m[39m
+2025-01-23 20:45:49:4549 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 1.384 ms[39m
+[35m[39m
+2025-01-23 21:29:20:2920 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 15.910 ms[39m
+[35m[39m
+2025-01-23 21:29:20:2920 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 2.775 ms[39m
+[35m[39m
+2025-01-23 21:29:20:2920 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 1.619 ms[39m
+[35m[39m
+2025-01-23 22:23:08:238 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 3.969 ms[39m
+[35m[39m
+2025-01-23 22:23:08:238 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 0.269 ms[39m
+[35m[39m
+2025-01-23 22:23:08:238 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 1.663 ms[39m
+[35m[39m
+2025-01-23 22:24:12:2412 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 1.373 ms[39m
+[35m[39m
+2025-01-23 22:24:12:2412 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 1.078 ms[39m
+[35m[39m
+2025-01-23 22:24:12:2412 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 0.706 ms[39m
+[35m[39m
+2025-01-24 12:18:30:1830 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 5.354 ms[39m
+[35m[39m
+2025-01-24 12:18:30:1830 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 1.169 ms[39m
+[35m[39m
+2025-01-24 12:18:30:1830 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 0.590 ms[39m
+[35m[39m
+2025-01-24 12:58:08:588 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 10.343 ms[39m
+[35m[39m
+2025-01-24 12:58:08:588 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 10.578 ms[39m
+[35m[39m
+2025-01-24 12:58:08:588 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 2.178 ms[39m
+[35m[39m
+2025-01-24 13:16:53:1653 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 1.376 ms[39m
+[35m[39m
+2025-01-24 13:16:53:1653 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 1.264 ms[39m
+[35m[39m
+2025-01-24 13:16:53:1653 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 1.787 ms[39m
+[35m[39m
+2025-01-24 14:20:30:2030 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 3.891 ms[39m
+[35m[39m
+2025-01-24 14:20:30:2030 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 1.269 ms[39m
+[35m[39m
+2025-01-24 14:20:30:2030 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 0.947 ms[39m
+[35m[39m
+2025-01-24 14:31:02:312 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 0.697 ms[39m
+[35m[39m
+2025-01-24 14:31:02:312 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 1.398 ms[39m
+[35m[39m
+2025-01-24 14:31:02:312 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 2.026 ms[39m
+[35m[39m
+2025-01-24 14:40:32:4032 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 4.896 ms[39m
+[35m[39m
+2025-01-24 14:40:32:4032 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 0.414 ms[39m
+[35m[39m
+2025-01-24 14:40:32:4032 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 0.661 ms[39m
+[35m[39m
+2025-01-24 14:40:35:4035 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/3 200 0.811 ms[39m
+[35m[39m
+2025-01-24 14:40:36:4036 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/5 200 0.733 ms[39m
+[35m[39m
+2025-01-24 14:40:36:4036 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/10 200 0.827 ms[39m
+[35m[39m
+2025-01-24 14:52:54:5254 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 4.677 ms[39m
+[35m[39m
+2025-01-24 15:06:52:652 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 3.972 ms[39m
+[35m[39m
+2025-01-24 15:12:22:1222 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 2.740 ms[39m
+[35m[39m
+2025-01-24 15:12:26:1226 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 1.033 ms[39m
+[35m[39m
+2025-01-24 15:12:26:1226 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 0.836 ms[39m
+[35m[39m
+2025-01-24 15:12:26:1226 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 1.652 ms[39m
+[35m[39m
+2025-01-24 15:22:12:2212 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 1.862 ms[39m
+[35m[39m
+2025-01-24 15:22:20:2220 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 2.063 ms[39m
+[35m[39m
+2025-01-24 15:22:21:2221 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 0.957 ms[39m
+[35m[39m
+2025-01-24 15:22:24:2224 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 2.782 ms[39m
+[35m[39m
+2025-01-24 15:22:24:2224 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 0.453 ms[39m
+[35m[39m
+2025-01-24 15:22:24:2224 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 1.246 ms[39m
+[35m[39m
+2025-01-24 15:22:28:2228 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/3 200 1.163 ms[39m
+[35m[39m
+2025-01-24 15:22:29:2229 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/5 200 0.730 ms[39m
+[35m[39m
+2025-01-24 15:22:29:2229 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/10 200 1.259 ms[39m
+[35m[39m
+2025-01-24 15:23:29:2329 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 1.193 ms[39m
+[35m[39m
+2025-01-24 15:24:18:2418 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/10 200 1.852 ms[39m
+[35m[39m
+2025-01-24 15:24:18:2418 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 0.377 ms[39m
+[35m[39m
+2025-01-24 15:24:35:2435 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/10 200 1.021 ms[39m
+[35m[39m
+2025-01-24 15:24:35:2435 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 0.215 ms[39m
+[35m[39m
+2025-01-24 15:24:51:2451 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 1.514 ms[39m
+[35m[39m
+2025-01-24 15:25:21:2521 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 0.888 ms[39m
+[35m[39m
+2025-01-24 15:25:21:2521 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/10 200 0.408 ms[39m
+[35m[39m
+2025-01-24 15:25:31:2531 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 1.109 ms[39m
+[35m[39m
+2025-01-24 15:25:31:2531 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 3.640 ms[39m
+[35m[39m
+2025-01-24 15:25:31:2531 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 0.741 ms[39m
+[35m[39m
+2025-01-24 15:26:42:2642 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 3.120 ms[39m
+[35m[39m
+2025-01-24 15:26:48:2648 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 44.776 ms[39m
+[35m[39m
+2025-01-24 15:26:48:2648 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 2.953 ms[39m
+[35m[39m
+2025-01-24 15:35:36:3536 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 1.383 ms[39m
+[35m[39m
+2025-01-24 15:35:36:3536 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 1.093 ms[39m
+[35m[39m
+2025-01-24 15:35:36:3536 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 6.615 ms[39m
+[35m[39m
+2025-01-24 15:36:37:3637 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 2.143 ms[39m
+[35m[39m
+2025-01-24 15:36:37:3637 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 0.201 ms[39m
+[35m[39m
+2025-01-24 15:36:37:3637 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 0.708 ms[39m
+[35m[39m
+2025-01-24 15:40:21:4021 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 0.842 ms[39m
+[35m[39m
+2025-01-24 15:40:21:4021 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 0.832 ms[39m
+[35m[39m
+2025-01-24 15:40:21:4021 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 4.503 ms[39m
+[35m[39m
+2025-01-24 15:40:22:4022 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 0.683 ms[39m
+[35m[39m
+2025-01-24 15:40:22:4022 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 0.773 ms[39m
+[35m[39m
+2025-01-24 15:40:30:4030 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 1.810 ms[39m
+[35m[39m
+2025-01-24 15:40:30:4030 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 0.459 ms[39m
+[35m[39m
+2025-01-24 15:40:32:4032 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 0.665 ms[39m
+[35m[39m
+2025-01-24 15:40:32:4032 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 0.404 ms[39m
+[35m[39m
+2025-01-24 15:40:41:4041 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 1.075 ms[39m
+[35m[39m
+2025-01-24 15:40:42:4042 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 2.598 ms[39m
+[35m[39m
+2025-01-24 15:41:03:413 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 16.684 ms[39m
+[35m[39m
+2025-01-24 15:41:03:413 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 0.733 ms[39m
+[35m[39m
+2025-01-24 15:41:03:413 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 0.307 ms[39m
+[35m[39m
+2025-01-24 15:42:12:4212 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 2.081 ms[39m
+[35m[39m
+2025-01-24 15:42:12:4212 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 1.067 ms[39m
+[35m[39m
+2025-01-24 15:42:14:4214 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 0.625 ms[39m
+[35m[39m
+2025-01-24 15:42:14:4214 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 1.840 ms[39m
+[35m[39m
+2025-01-24 15:42:14:4214 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 0.496 ms[39m
+[35m[39m
+2025-01-24 15:42:50:4250 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 2.348 ms[39m
+[35m[39m
+2025-01-24 15:42:50:4250 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 0.305 ms[39m
+[35m[39m
+2025-01-24 15:44:46:4446 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 0.726 ms[39m
+[35m[39m
+2025-01-24 15:45:14:4514 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 0.929 ms[39m
+[35m[39m
+2025-01-24 15:45:14:4514 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 0.594 ms[39m
+[35m[39m
+2025-01-24 15:45:14:4514 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 0.483 ms[39m
+[35m[39m
+2025-01-24 15:45:41:4541 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/3 200 2.222 ms[39m
+[35m[39m
+2025-01-24 15:45:41:4541 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/5 200 0.896 ms[39m
+[35m[39m
+2025-01-24 15:45:42:4542 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/10 200 2.802 ms[39m
+[35m[39m
+2025-01-24 15:47:16:4716 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 304 4.502 ms[39m
+[35m[39m
+2025-01-24 15:47:16:4716 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 304 0.489 ms[39m
+[35m[39m
+2025-01-24 15:47:16:4716 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 1.211 ms[39m
+[35m[39m
+2025-01-24 15:50:11:5011 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 6.949 ms[39m
+[35m[39m
+2025-01-24 15:50:21:5021 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 304 8.852 ms[39m
+[35m[39m
+2025-01-24 15:50:21:5021 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 0.874 ms[39m
+[35m[39m
+2025-01-24 15:50:36:5036 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 304 5.177 ms[39m
+[35m[39m
+2025-01-24 15:50:36:5036 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 1.581 ms[39m
+[35m[39m
+2025-01-24 15:51:01:511 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/3 304 1.981 ms[39m
+[35m[39m
+2025-01-24 15:51:02:512 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/5 304 2.420 ms[39m
+[35m[39m
+2025-01-24 15:51:02:512 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/10 304 1.399 ms[39m
+[35m[39m
+2025-01-24 16:01:14:114 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 304 34.346 ms[39m
+[35m[39m
+2025-01-24 16:01:14:114 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 304 7.619 ms[39m
+[35m[39m
+2025-01-24 16:01:14:114 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 3.452 ms[39m
+[35m[39m
+2025-01-24 16:18:04:184 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/10 304 1.883 ms[39m
+[35m[39m
+2025-01-24 16:18:05:185 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/5 304 1.589 ms[39m
+[35m[39m
+2025-01-24 16:18:07:187 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/3 304 1.034 ms[39m
+[35m[39m
+2025-01-24 16:18:07:187 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 304 1.459 ms[39m
+[35m[39m
+2025-01-24 16:18:10:1810 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 304 0.520 ms[39m
+[35m[39m
+2025-01-24 16:18:10:1810 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 304 0.499 ms[39m
+[35m[39m
+2025-01-24 16:18:10:1810 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 0.516 ms[39m
+[35m[39m
+2025-01-24 17:50:54:5054 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 304 26.192 ms[39m
+[35m[39m
+2025-01-24 17:50:54:5054 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 13.717 ms[39m
+[35m[39m
+2025-01-24 17:50:54:5054 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 304 2.559 ms[39m
+[35m[39m
+2025-01-25 12:25:17:2517 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 22.810 ms[39m
+[35m[39m
+2025-01-25 12:25:17:2517 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 304 11.955 ms[39m
+[35m[39m
+2025-01-25 12:25:17:2517 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 304 0.612 ms[39m
+[35m[39m
+2025-01-25 13:21:46:2146 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 4.491 ms[39m
+[35m[39m
+2025-01-25 13:21:46:2146 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 304 0.394 ms[39m
+[35m[39m
+2025-01-25 13:21:46:2146 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 304 5.556 ms[39m
+[35m[39m
+2025-01-25 14:48:39:4839 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 304 29.252 ms[39m
+[35m[39m
+2025-01-25 14:48:39:4839 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 0.307 ms[39m
+[35m[39m
+2025-01-25 14:48:39:4839 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 304 3.143 ms[39m
+[35m[39m
+2025-01-25 15:17:00:170 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 304 6.084 ms[39m
+[35m[39m
+2025-01-25 15:17:00:170 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 304 3.823 ms[39m
+[35m[39m
+2025-01-25 15:17:00:170 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 7.979 ms[39m
+[35m[39m
+2025-01-25 15:17:05:175 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/3 304 2.141 ms[39m
+[35m[39m
+2025-01-25 15:17:05:175 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/5 304 1.264 ms[39m
+[35m[39m
+2025-01-25 15:17:05:175 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/10 304 1.275 ms[39m
+[35m[39m
+2025-01-25 15:48:52:4852 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 304 3.825 ms[39m
+[35m[39m
+2025-01-25 15:48:52:4852 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 304 5.035 ms[39m
+[35m[39m
+2025-01-25 15:48:52:4852 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 7.366 ms[39m
+[35m[39m
+2025-01-25 16:05:53:553 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/3 304 15.678 ms[39m
+[35m[39m
+2025-01-25 16:48:00:480 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/5 304 16.606 ms[39m
+[35m[39m
+2025-01-25 16:48:00:480 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/10 304 1.305 ms[39m
+[35m[39m
+2025-01-25 16:50:58:5058 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 304 1.923 ms[39m
+[35m[39m
+2025-01-25 16:50:58:5058 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 2.103 ms[39m
+[35m[39m
+2025-01-25 16:50:58:5058 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 304 1.668 ms[39m
+[35m[39m
+2025-01-25 16:51:00:510 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/3 304 0.916 ms[39m
+[35m[39m
+2025-01-25 16:51:01:511 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/10 304 1.553 ms[39m
+[35m[39m
+2025-01-25 16:51:49:5149 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 1.882 ms[39m
+[35m[39m
+2025-01-25 16:52:07:527 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 1.864 ms[39m
+[35m[39m
+2025-01-25 16:52:37:5237 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 1.574 ms[39m
+[35m[39m
+2025-01-25 16:52:47:5247 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 1.579 ms[39m
+[35m[39m
+2025-01-25 16:52:47:5247 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 0.804 ms[39m
+[35m[39m
+2025-01-25 16:52:47:5247 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 3.183 ms[39m
+[35m[39m
+2025-01-25 16:52:47:5247 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 1.073 ms[39m
+[35m[39m
+2025-01-25 16:52:47:5247 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 0.351 ms[39m
+[35m[39m
+2025-01-25 16:52:47:5247 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 0.603 ms[39m
+[35m[39m
+2025-01-25 16:52:48:5248 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 0.607 ms[39m
+[35m[39m
+2025-01-25 16:52:48:5248 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 0.585 ms[39m
+[35m[39m
+2025-01-25 16:52:48:5248 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 0.348 ms[39m
+[35m[39m
+2025-01-25 16:52:48:5248 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 0.355 ms[39m
+[35m[39m
+2025-01-25 16:52:48:5248 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 0.906 ms[39m
+[35m[39m
+2025-01-25 16:52:48:5248 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 1.435 ms[39m
+[35m[39m
+2025-01-25 16:52:48:5248 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 0.812 ms[39m
+[35m[39m
+2025-01-25 16:52:48:5248 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 0.417 ms[39m
+[35m[39m
+2025-01-25 16:52:48:5248 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 0.995 ms[39m
+[35m[39m
+2025-01-25 16:52:49:5249 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 0.851 ms[39m
+[35m[39m
+2025-01-25 16:52:49:5249 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 0.335 ms[39m
+[35m[39m
+2025-01-25 16:52:49:5249 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 0.390 ms[39m
+[35m[39m
+2025-01-25 16:52:49:5249 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 0.444 ms[39m
+[35m[39m
+2025-01-25 16:52:49:5249 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 0.307 ms[39m
+[35m[39m
+2025-01-25 16:52:50:5250 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 5.906 ms[39m
+[35m[39m
+2025-01-25 16:52:50:5250 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 0.317 ms[39m
+[35m[39m
+2025-01-25 16:52:50:5250 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 0.331 ms[39m
+[35m[39m
+2025-01-25 16:52:50:5250 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 1.217 ms[39m
+[35m[39m
+2025-01-25 16:52:50:5250 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 1.486 ms[39m
+[35m[39m
+2025-01-25 16:52:50:5250 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 0.380 ms[39m
+[35m[39m
+2025-01-25 16:52:51:5251 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 0.752 ms[39m
+[35m[39m
+2025-01-25 16:52:51:5251 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 2.212 ms[39m
+[35m[39m
+2025-01-25 16:52:51:5251 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 0.325 ms[39m
+[35m[39m
+2025-01-25 16:52:51:5251 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 1.561 ms[39m
+[35m[39m
+2025-01-25 16:52:51:5251 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 1.235 ms[39m
+[35m[39m
+2025-01-25 16:52:51:5251 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 1.380 ms[39m
+[35m[39m
+2025-01-25 16:52:53:5253 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 0.873 ms[39m
+[35m[39m
+2025-01-25 16:52:53:5253 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 0.519 ms[39m
+[35m[39m
+2025-01-25 16:52:53:5253 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 0.358 ms[39m
+[35m[39m
+2025-01-25 16:52:54:5254 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 0.571 ms[39m
+[35m[39m
+2025-01-25 16:52:54:5254 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 0.274 ms[39m
+[35m[39m
+2025-01-25 16:52:54:5254 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 0.416 ms[39m
+[35m[39m
+2025-01-25 16:54:40:5440 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/3 200 1.687 ms[39m
+[35m[39m
+2025-01-25 16:54:41:5441 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/5 200 0.820 ms[39m
+[35m[39m
+2025-01-25 16:54:41:5441 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/10 200 0.814 ms[39m
+[35m[39m
+2025-01-25 16:54:57:5457 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/5 200 3.419 ms[39m
+[35m[39m
+2025-01-25 16:54:58:5458 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/3 200 1.021 ms[39m
+[35m[39m
+2025-01-25 16:54:59:5459 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 1.039 ms[39m
+[35m[39m
+2025-01-25 16:57:45:5745 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 3.008 ms[39m
+[35m[39m
+2025-01-25 16:57:45:5745 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 0.584 ms[39m
+[35m[39m
+2025-01-25 16:57:45:5745 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 0.634 ms[39m
+[35m[39m
+2025-01-25 17:21:01:211 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/3 304 16.252 ms[39m
+[35m[39m
+2025-01-25 17:21:03:213 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/10 304 0.956 ms[39m
+[35m[39m
+2025-01-25 17:21:03:213 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/5 304 1.065 ms[39m
+[35m[39m
+2025-01-25 17:51:41:5141 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 304 4.308 ms[39m
+[35m[39m
+2025-01-25 17:51:56:5156 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 304 1.391 ms[39m
+[35m[39m
+2025-01-25 17:52:20:5220 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 304 2.168 ms[39m
+[35m[39m
+2025-01-25 17:52:46:5246 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 304 2.252 ms[39m
+[35m[39m
+2025-01-25 17:53:19:5319 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 304 1.836 ms[39m
+[35m[39m
+2025-01-25 17:53:24:5324 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 304 3.265 ms[39m
+[35m[39m
+2025-01-25 17:53:24:5324 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 304 0.669 ms[39m
+[35m[39m
+2025-01-25 17:53:24:5324 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 1.055 ms[39m
+[35m[39m
+2025-01-25 17:53:47:5347 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 304 2.092 ms[39m
+[35m[39m
+2025-01-25 17:53:49:5349 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 304 0.610 ms[39m
+[35m[39m
+2025-01-25 17:53:49:5349 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 304 0.858 ms[39m
+[35m[39m
+2025-01-25 17:53:49:5349 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 1.115 ms[39m
+[35m[39m
+2025-01-25 18:09:17:917 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 49.188 ms[39m
+[35m[39m
+2025-01-25 18:09:17:917 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 304 0.161 ms[39m
+[35m[39m
+2025-01-25 18:09:17:917 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 304 0.328 ms[39m
+[35m[39m
+2025-01-25 18:18:59:1859 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 304 2.624 ms[39m
+[35m[39m
+2025-01-25 18:58:53:5853 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/3 304 15.022 ms[39m
+[35m[39m
+2025-01-25 18:58:54:5854 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/5 304 1.828 ms[39m
+[35m[39m
+2025-01-25 18:58:58:5858 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/10 304 1.232 ms[39m
+[35m[39m
+2025-01-25 18:58:59:5859 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/3 304 6.704 ms[39m
+[35m[39m
+2025-01-25 18:59:00:590 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 304 0.999 ms[39m
+[35m[39m
+2025-01-25 18:59:02:592 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/10 304 1.218 ms[39m
+[35m[39m
+2025-01-25 18:59:03:593 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/3 304 1.514 ms[39m
+[35m[39m
+2025-01-25 18:59:04:594 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 304 1.193 ms[39m
+[35m[39m
+2025-01-25 19:21:44:2144 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 304 3.619 ms[39m
+[35m[39m
+2025-01-25 19:21:44:2144 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 2.572 ms[39m
+[35m[39m
+2025-01-25 19:21:44:2144 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 304 2.515 ms[39m
+[35m[39m
+2025-01-25 20:51:16:5116 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 15.733 ms[39m
+[35m[39m
+2025-01-25 20:51:21:5121 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 2.265 ms[39m
+[35m[39m
+2025-01-25 20:51:21:5121 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 2.253 ms[39m
+[35m[39m
+2025-01-25 20:51:21:5121 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 0.892 ms[39m
+[35m[39m
+2025-01-25 23:07:14:714 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 21.327 ms[39m
+[35m[39m
+2025-01-25 23:07:14:714 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 4.037 ms[39m
+[35m[39m
+2025-01-25 23:07:14:714 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 4.925 ms[39m
+[35m[39m
+2025-01-26 00:01:51:151 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 6.741 ms[39m
+[35m[39m
+2025-01-26 00:01:51:151 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 0.923 ms[39m
+[35m[39m
+2025-01-26 00:01:51:151 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 5.426 ms[39m
+[35m[39m
+2025-01-26 10:51:13:5113 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 3.850 ms[39m
+[35m[39m
+2025-01-26 10:51:13:5113 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 0.327 ms[39m
+[35m[39m
+2025-01-26 10:51:13:5113 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 2.189 ms[39m
+[35m[39m
+2025-01-26 11:46:48:4648 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 3.221 ms[39m
+[35m[39m
+2025-01-26 11:46:48:4648 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 1.376 ms[39m
+[35m[39m
+2025-01-26 11:46:48:4648 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 3.176 ms[39m
+[35m[39m
+2025-01-26 11:59:45:5945 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 10.209 ms[39m
+[35m[39m
+2025-01-26 11:59:45:5945 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 2.083 ms[39m
+[35m[39m
+2025-01-26 11:59:45:5945 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 0.918 ms[39m
+[35m[39m
+2025-01-26 13:24:24:2424 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 49.917 ms[39m
+[35m[39m
+2025-01-26 13:24:24:2424 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 5.305 ms[39m
+[35m[39m
+2025-01-26 13:24:24:2424 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 5.212 ms[39m
+[35m[39m
+2025-01-26 15:50:09:509 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 6.604 ms[39m
+[35m[39m
+2025-01-26 15:50:09:509 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 4.345 ms[39m
+[35m[39m
+2025-01-26 15:50:09:509 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 2.341 ms[39m
+[35m[39m
+2025-01-26 18:37:50:3750 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 12.752 ms[39m
+[35m[39m
+2025-01-26 18:37:50:3750 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 1.051 ms[39m
+[35m[39m
+2025-01-26 18:37:50:3750 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 2.148 ms[39m
+[35m[39m
+2025-01-26 19:02:36:236 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 8.624 ms[39m
+[35m[39m
+2025-01-26 19:02:36:236 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 3.378 ms[39m
+[35m[39m
+2025-01-26 19:02:36:236 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 2.387 ms[39m
+[35m[39m
+2025-01-26 19:22:00:220 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 14.746 ms[39m
+[35m[39m
+2025-01-26 19:22:00:220 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 1.253 ms[39m
+[35m[39m
+2025-01-26 19:22:00:220 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 5.552 ms[39m
+[35m[39m
+2025-01-26 20:46:45:4645 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 7.017 ms[39m
+[35m[39m
+2025-01-26 20:46:45:4645 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 0.360 ms[39m
+[35m[39m
+2025-01-26 20:46:45:4645 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 2.228 ms[39m
+[35m[39m
+2025-01-26 22:09:03:93 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 14.215 ms[39m
+[35m[39m
+2025-01-26 22:09:03:93 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 1.625 ms[39m
+[35m[39m
+2025-01-26 22:09:03:93 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 1.173 ms[39m
+[35m[39m
+2025-01-27 01:47:52:4752 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 7.423 ms[39m
+[35m[39m
+2025-01-27 01:47:52:4752 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 0.291 ms[39m
+[35m[39m
+2025-01-27 01:47:52:4752 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 1.819 ms[39m
+[35m[39m
+2025-01-27 08:04:05:45 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 200 21.084 ms[39m
+[35m[39m
+2025-01-27 08:04:05:45 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 200 1.314 ms[39m
+[35m[39m
+2025-01-27 08:04:05:45 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 1.588 ms[39m
+[35m[39m
+2025-01-29 18:50:59:5059 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 304 24.254 ms[39m
+[35m[39m
+2025-01-29 18:50:59:5059 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 4.615 ms[39m
+[35m[39m
+2025-01-29 18:50:59:5059 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 304 2.740 ms[39m
+[35m[39m
+2025-01-29 18:54:55:5455 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 304 4.932 ms[39m
+[35m[39m
+2025-01-29 18:54:55:5455 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 3.813 ms[39m
+[35m[39m
+2025-01-29 18:54:55:5455 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 304 1.293 ms[39m
+[35m[39m
+2025-01-29 18:55:09:559 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/3 304 1.878 ms[39m
+[35m[39m
+2025-01-29 18:55:10:5510 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/5 304 1.824 ms[39m
+[35m[39m
+2025-01-29 18:55:10:5510 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/10 304 1.647 ms[39m
+[35m[39m
+2025-01-29 20:11:35:1135 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 4.558 ms[39m
+[35m[39m
+2025-01-29 20:11:45:1145 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 3.205 ms[39m
+[35m[39m
+2025-01-29 20:36:43:3643 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 304 3.357 ms[39m
+[35m[39m
+2025-01-29 20:37:49:3749 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 304 2.717 ms[39m
+[35m[39m
+2025-01-29 20:39:31:3931 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 304 2.896 ms[39m
+[35m[39m
+2025-01-29 21:28:20:2820 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 4.343 ms[39m
+[35m[39m
+2025-01-29 21:28:20:2820 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 304 1.476 ms[39m
+[35m[39m
+2025-01-29 21:28:20:2820 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 304 7.106 ms[39m
+[35m[39m
+2025-01-29 23:37:04:374 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 304 24.140 ms[39m
+[35m[39m
+2025-01-29 23:37:04:374 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 304 0.616 ms[39m
+[35m[39m
+2025-01-29 23:37:04:374 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 1.597 ms[39m
+[35m[39m
+2025-01-30 10:42:10:4210 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 304 9.596 ms[39m
+[35m[39m
+2025-01-30 10:42:10:4210 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 304 55.370 ms[39m
+[35m[39m
+2025-01-30 10:42:10:4210 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 15.853 ms[39m
+[35m[39m
+2025-01-30 11:09:41:941 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 10.699 ms[39m
+[35m[39m
+2025-01-30 11:09:41:941 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 304 17.729 ms[39m
+[35m[39m
+2025-01-30 11:09:41:941 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 304 1.664 ms[39m
+[35m[39m
+2025-01-30 11:56:59:5659 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 304 3.452 ms[39m
+[35m[39m
+2025-01-30 11:56:59:5659 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 0.990 ms[39m
+[35m[39m
+2025-01-30 11:56:59:5659 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 304 5.352 ms[39m
+[35m[39m
+2025-01-30 15:59:32:5932 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 10.845 ms[39m
+[35m[39m
+2025-01-30 15:59:32:5932 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 304 5.750 ms[39m
+[35m[39m
+2025-01-30 15:59:32:5932 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 304 0.527 ms[39m
+[35m[39m
+2025-01-30 16:22:56:2256 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 304 3.244 ms[39m
+[35m[39m
+2025-01-30 16:22:56:2256 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 304 5.815 ms[39m
+[35m[39m
+2025-01-30 16:22:56:2256 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 15.288 ms[39m
+[35m[39m
+2025-01-30 16:23:11:2311 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/3 304 1.989 ms[39m
+[35m[39m
+2025-01-30 16:23:12:2312 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/5 304 1.216 ms[39m
+[35m[39m
+2025-01-30 16:23:12:2312 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/10 304 1.115 ms[39m
+[35m[39m
+2025-01-30 17:34:46:3446 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 304 25.009 ms[39m
+[35m[39m
+2025-01-30 17:34:46:3446 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 304 3.823 ms[39m
+[35m[39m
+2025-01-30 17:34:46:3446 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 0.650 ms[39m
+[35m[39m
+2025-01-30 18:43:31:4331 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/3 304 27.429 ms[39m
+[35m[39m
+2025-01-30 18:43:31:4331 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/5 304 2.541 ms[39m
+[35m[39m
+2025-01-30 18:43:31:4331 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/10 304 0.687 ms[39m
+[35m[39m
+2025-01-30 19:35:09:359 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 304 4.889 ms[39m
+[35m[39m
+2025-01-30 19:35:09:359 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 5.130 ms[39m
+[35m[39m
+2025-01-30 19:35:09:359 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 304 4.578 ms[39m
+[35m[39m
+2025-02-05 17:09:35:935 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/breakdown 200 2.385 ms[39m
+[35m[39m
+2025-02-05 17:09:35:935 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984 304 0.430 ms[39m
+[35m[39m
+2025-02-05 17:09:35:935 undefined [35mhttp[39m: [35mGET /api/portfolio/3233283984/performance/1 304 0.992 ms[39m
+[35m[39m

@@ -1,0 +1,30 @@
+.tabListRootContainer {
+    display: flex;
+    flex-direction: row;
+    border-bottom: 0.125rem;
+    border-color: var(--neutral-color);
+    border-bottom-style: solid;
+    transition: 0s;
+    margin-bottom: 0.75rem;
+}
+
+.tab {
+    padding-right: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    line-height: 1rem;
+    margin-top: 0.125rem;
+    margin-bottom: 0rem;
+    margin-right: 0.5rem;
+    color: var(--neutral-color);
+}
+
+.tab:hover {
+    cursor: pointer;
+}
+
+.tabSelected {
+    border-bottom-width: 0.125rem;
+    border-bottom-style: solid;
+    color: var(--text-color);
+}
