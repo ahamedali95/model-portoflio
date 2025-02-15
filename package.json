@@ -62,8 +62,6 @@
         "@types/node": "^22.10.7",
         "@types/react": "^19.0.7",
         "@types/react-dom": "^19.0.3",
-        "@types/react-relay": "^18.2.0",
-        "@types/relay-runtime": "^18.2.5",
         "@typescript-eslint/eslint-plugin": "^8.20.0",
         "@typescript-eslint/parser": "^8.20.0",
         "@vitejs/plugin-legacy": "^6.0.0",
