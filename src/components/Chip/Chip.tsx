@@ -5,7 +5,7 @@ import styles from './Chip.module.css';
 type ChipProps = {
     children: ReactNode;
     className?: string;
-    border?: 'square' | 'rounded'
+    border?: 'square' | 'rounded';
 };
 const Chip: FC<ChipProps> = ({ children, className, border = 'rounded' }) => {
     return (

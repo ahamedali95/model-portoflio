@@ -2,3 +2,4 @@ export type { Category, Subcategory, Security, PortfolioBreakdown } from './Port
 export type { PortfolioDetail } from './PortfolioDetail';
 export { RiskLevel } from './PortfolioDetail';
 export type { HistoricalPerformance } from './HistoricalPerformance';
+export type { PartnerResponse } from './PartnerResponse';

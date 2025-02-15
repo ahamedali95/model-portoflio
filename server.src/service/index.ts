@@ -1,1 +1,3 @@
-export { default as PortfolioService } from './PortfolioService';
+import PortfolioService from './PortfolioService';
+
+export { PortfolioService };

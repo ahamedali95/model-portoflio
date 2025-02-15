@@ -1,18 +1,4 @@
-import { v4 as uuid } from 'uuid';
-
-import type { HistoricalPerformance, PortfolioBreakdown, PortfolioDetail } from '../../api-definitions';
-
-type PartnerResponse = {
-    [key: string]: {
-        category: string;
-        securities: {
-            [key: string]: {
-                description: string;
-                allocation: number;
-            };
-        };
-    };
-};
+import { type HistoricalPerformance, type PortfolioDetail } from '../../api-definitions';
 
 class PortfolioService {
     async getModelDetails(portfolioId: string): Promise<PortfolioDetail> {
@@ -29,7 +15,7 @@ class PortfolioService {
         return { 'twr': 15.75 * timeSpan };
     }
 
-    async getPortfolioBreakdown(portfolioId: string): Promise<PortfolioBreakdown> {
+    async getPortfolioBreakdown(portfolioId: string): Promise<any> {
         //NOTE: get data from partner service and transform the data to server it to the UI but now I am mocking the data.
         const partnerResponse = {
             'Other': {
@@ -129,57 +115,23 @@ class PortfolioService {
                 }
             }
         };
-        
 
-        return this.mapPartnerResponseToDto(partnerResponse);
-    }
-
-    private mapPartnerResponseToDto(data: PartnerResponse): PortfolioBreakdown {
-        const apiResponse: PortfolioBreakdown = {
-            categories: {},
-            subcategories: {},
-            securities: {}
-        };
-
-        for (const key in data) {
-            const value = data[key];
-
-            if (!apiResponse.subcategories[key]) {
-                const securities = data[key].securities;
-
-                apiResponse.subcategories[key] = {
-                    name: key,
-                    id: uuid(),
-                    allocation: Object.values(securities)
-                        .reduce((accumulator, value) => {
-                            accumulator += value.allocation;
-
-                            return accumulator;
-                        }, 0),
-                    securities: Object.keys(securities)
-                };
-                apiResponse.securities = {
-                    ...apiResponse.securities,
-                    ...securities
-                };
-            }
-
-            if (apiResponse.categories[value.category]) {
-                const allocation = apiResponse.subcategories[key].allocation;
-                apiResponse.categories[value.category].allocation += allocation;
-                apiResponse.categories[value.category].subcategories.push(key);
-            } else {
-                const allocation = apiResponse.subcategories[key].allocation;
-                apiResponse.categories[value.category] = {
-                    name: value.category,
-                    id: uuid(),
-                    allocation: allocation,
-                    subcategories: [key]
-                };
-            }
-        }
-
-        return apiResponse;
+        return Object.keys(partnerResponse)
+            .map(categoryName => ({
+                categoryName: categoryName ?? '',
+                category: {
+                //@ts-ignore
+                    category: partnerResponse[categoryName].category,
+                    //@ts-ignore
+                    securities: Object.keys(partnerResponse[categoryName].securities)
+                        .map(securityKey => ({
+                            //@ts-ignore
+                            description: partnerResponse[categoryName].securities[securityKey].description,
+                            //@ts-ignore
+                            allocation: partnerResponse[categoryName].securities[securityKey].allocation
+                        }))
+                }
+            }));
     }
 }
 

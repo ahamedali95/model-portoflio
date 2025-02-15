@@ -9,11 +9,11 @@ This project is designed to display information about model portfolios. A model 
 - **Portfolio Holdings**: Shows the current securities in the portfolio, including their weights, prices, and other relevant details.
 
 ## Tech Stack
-- **Frontend**: React, TypeScript, Vite, ESLint, Vitest, React Router
-- **Backend**: Express.js
+- **Frontend**: React, TypeScript, Vite, ESLint, Vitest, React Router, Apollo GraphQL Client
+- **Backend**: Express.js, Apollo GraphQL Server
 - **Data**: Mock Data supplied through Express
 
-## API Endpoints
+## API Endpoints - @deprecated and replaced w/ GraphQL 
 ### 1. Portfolio Metadata
 - `GET /api/portfolios/:id`
   - Returns metadata for a specific portfolio.
@@ -26,9 +26,12 @@ This project is designed to display information about model portfolios. A model 
 - `GET /api/portfolios/:id/holdings`
   - Returns the current securities and weights in the portfolio.
 
+
+
 ## Setup Instructions
 1. Clone the repository:
    git clone https://github.com/your-repo/model-portfolio.git
+
    cd model-portfolio
 
 ## Download NodeJS

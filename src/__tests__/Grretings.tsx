@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 
 const Greeting = () => {
     const [ name, setName ] = useState('');
-    console.log(process.env);
     const handleChange = (e: any) => {
         setName(e.target.value);
     };

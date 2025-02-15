@@ -18,7 +18,11 @@ const devConfig = defineConfig({
                 target: 'http://localhost:3001',
                 changeOrigin: true,
                 secure: false
-                // rewrite: (path) => path.replace(/^\/api/, ''), // Optional: adjust path if necessary
+            },
+            '/graphql': {
+                target: 'http://localhost:3001',
+                changeOrigin: true,
+                secure: false
             }
         }
     },

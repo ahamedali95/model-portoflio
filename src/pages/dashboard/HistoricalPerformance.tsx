@@ -1,10 +1,12 @@
+import { useQuery } from '@apollo/client';
 import React from 'react';
 import { useParams } from 'react-router';
 
-import { useQuery } from '@/api';
-import { Button } from '@/components/Button';
-import { Card, CardContent, CardHeader } from '@/components/Card';
+// import { useQuery } from '@api/hooks';
+import { GET_HISTORICAL_PERFORMANCE } from '@api/queries';
 import TriangleIcon from '@assets/icons/triangle.svg';
+import { Button } from '@components/Button';
+import { Card, CardContent, CardHeader } from '@components/Card';
 
 import styles from './DashboardStyles.module.css';
 import type { HistoricalPerformance } from '../../../api-definitions';
@@ -19,7 +21,16 @@ enum TimeSpan {
 const HistoricalPerformance = () => {
     const [ timeFrame, setTimeFrame ] = React.useState<TimeSpan>(TimeSpan['1Y']);
     const params = useParams();
-    const { data } = useQuery<HistoricalPerformance>(`/api/portfolio/${params.portfolioId}/performance/${timeFrame}`);
+    // REST API GET
+    // const { data } = useQuery<HistoricalPerformance>(`/api/portfolio/${params.portfolioId}/performance/${timeFrame}`);
+    // GRAPHQL QUERY
+    const { data } = useQuery<{ historicalPerformance: HistoricalPerformance }>(GET_HISTORICAL_PERFORMANCE, {
+        variables: {
+            id: params.portfolioId,
+            timeSpan: timeFrame
+        }
+    });
+    const historicalPerformance = data?.historicalPerformance;
 
     return (
         <Card className={styles.card}>
@@ -33,7 +44,7 @@ const HistoricalPerformance = () => {
                             alt='logo'
                             src={TriangleIcon}
                         />
-                        <span>{`+${data?.twr}%`}</span>
+                        <span>{`+${historicalPerformance?.twr}%`}</span>
                     </span>
                 </div>
             </CardHeader>

@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { Chip } from '@/components/Chip';
+import { Chip } from '@components/Chip';
 
 import styles from './DashboardStyles.module.css';
 

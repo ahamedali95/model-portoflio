@@ -22,19 +22,16 @@
       "experimentalDecorators": true,
       "preserveWatchOutput": true,
       "resolveJsonModule": true,
-      "types": ["vitest/globals", "@testing-library/jest-dom"],
+      "types": [
+        "vitest/globals", 
+        "@testing-library/jest-dom"
+      ],
       "paths": {
-        "@/*": ["src/*"],
         "@layout/*": ["src/layout/*"],
         "@pages/*": ["src/pages/*"],
         "@components/*": ["src/components/*"],
         "@assets/*": ["src/assets/*"],
-        "@api/*": ["src/api"],
-        "@@/*": ["server.src/*"],
-        "@@resource/*": ["server.src/resource"],
-        "@@service/*": ["server.src/service"],
-        "@@config/*": ["server.src/config"],
-        "@@middleware/*": ["server.src/middleware"]
+        "@api/*": ["src/api/*"]
       }
     },
     "include": [

@@ -1,0 +1,32 @@
+scalar JSON
+
+type Query {
+  portfolio(id: ID!): Portfolio
+  historicalPerformance(id: ID!, timeSpan: String!): TimeSpan
+  marketBreakdown(id: ID!): [PortfolioBreakdown!]!
+}
+
+type Portfolio {
+  riskLevel: String!
+  type: String!
+  created: String!
+}
+
+type TimeSpan {
+  twr: Float!
+}
+
+type Security {
+  description: String!
+  allocation: Int!
+}
+
+type Category {
+  category: String!
+  securities: [Security!]!
+}
+
+type PortfolioBreakdown {
+  categoryName: String!
+  category: Category!
+}
