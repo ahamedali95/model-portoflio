@@ -1,0 +1,12 @@
+[build]
+  publish = "build/ui" 
+  functions = "build/server"
+  command = "npm run build"
+
+[[redirects]]
+  from = "/graphql"
+  to = "/.netlify/functions/index"
+  status = 200
+
+[context.production.environment]
+  NODE_ENV = "production"

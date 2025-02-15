@@ -44,7 +44,7 @@ const HistoricalPerformance = () => {
                             alt='logo'
                             src={TriangleIcon}
                         />
-                        <span>{`+${historicalPerformance?.twr}%`}</span>
+                        <span>{`+${historicalPerformance?.twr ?? ''}%`}</span>
                     </span>
                 </div>
             </CardHeader>
