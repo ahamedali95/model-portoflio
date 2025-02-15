@@ -41,7 +41,6 @@ class PortfolioResource {
             const result = await this.portfolioService.getPortfolioBreakdown(request.params.portfolioId);
             // response.status(200)
             //     .json(result);
-            console.log((result));
 
             return result;
         } catch (error: any) {

@@ -55,7 +55,8 @@ class App {
         process.env.NODE_ENV === 'production' && this.app.use(express.static(path.join(process.cwd(), 'build', 'ui')));
 
         this.app.get('*', (req, res) => {
-            res.status(200).sendFile(path.join(process.cwd(), 'build', 'ui', 'index.html'))
+            res.status(200)
+                .sendFile(path.join(process.cwd(), 'build', 'ui', 'index.html'));
         });
     }
 
