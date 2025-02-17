@@ -1,6 +1,6 @@
 import React from 'react';
 
-import styles from './Button.module.css';
+import { sx } from '@util';
 
 type ButtonProps = {
     children?: React.ReactNode;
@@ -25,7 +25,7 @@ const Button: React.FC<ButtonProps> = ({
 }) => {
     return (
         <button
-            className={`${styles.root} ${fullWidth ? styles.rootFullWidth : ''} ${variant === 'outlined' ? styles.rootOutlined : variant === 'contained' ? styles.rootContained : ''} ${className}`}
+            className={sx('min-w-10 p-3 text-sm text-text rounded-[6px] cursor-pointer leading-1 bg-transparent bg-no-repeat border-none', isDisabled && 'cursor-not-allowed', fullWidth && 'w-full', variant === 'outlined' && 'bg-primary border-solid', variant === 'contained' && 'bg-primary', className)}
             disabled={isDisabled}
             name={name}
             onClick={() => onClick(children)}

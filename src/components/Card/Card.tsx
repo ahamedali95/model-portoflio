@@ -1,6 +1,6 @@
 import React, { FC, ReactNode } from 'react';
 
-import styles from './Card.module.css';
+import { sx } from '@util';
 
 type CardContentProps = {
     children?: ReactNode;
@@ -26,16 +26,16 @@ const CardHeader: FC<CardHeaderProps> = ({
     subtitle = ''
 }) => {
     return (
-        <div className={`${styles.cardHeader} ${className}`}>
+        <div className={sx('border-neutral border-b-solid border-b-[1.5px] bg-secondary min-h-12 p-4 leading-4', className)}>
             {
                 title &&
-                <span className={styles.cardHeaderTitle}>
+                <span className={sx('mt-1 mr-0.5 text-text font-bold')}>
                     {title}
                 </span>
             }
             {
                 subtitle &&
-                <span className={styles.cardHeaderSubtitle}>
+                <span className={sx('text-text mt-2 block text-sm')}>
                     {subtitle}
                 </span>
             }
@@ -46,7 +46,7 @@ const CardHeader: FC<CardHeaderProps> = ({
 
 const CardContent: FC<CardContentProps> = ({ children, className }) => {
     return (
-        <div className={`${styles.cardContent} ${className}`}>
+        <div className={sx('w-full', className)}>
             {children}
         </div>
     );
@@ -54,7 +54,7 @@ const CardContent: FC<CardContentProps> = ({ children, className }) => {
 
 const Card: FC<CardProps> = ({ children, className }) => {
     return (
-        <div className={`${styles.root} ${className}`}>
+        <div className={sx('border-neutral border-[1.5px] rounded-[6px] border-solid min-h-30px overflow-y-auto', className)}>
             {children}
         </div>
     );

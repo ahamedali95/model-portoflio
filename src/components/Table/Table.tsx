@@ -1,6 +1,6 @@
 import React, { FC, ReactNode } from 'react';
 
-import styles from './TableStyles.module.css';
+import { sx } from '@util';
 
 type TableFooterProps = {
     children: ReactNode;
@@ -37,7 +37,7 @@ type TableBodyProps = {
 const TableFooter: FC<TableFooterProps> = ({ children, className = '' }) => {
     return (
         <tfoot
-            className={`${styles.tableFooter} ${className}`}
+            className={sx(className)}
         >
             {children}
         </tfoot>
@@ -47,7 +47,7 @@ const TableFooter: FC<TableFooterProps> = ({ children, className = '' }) => {
 const TableCell: FC<TableCellProps> = ({ children, className = '', align = 'inherit' }) => {
     return (
         <td
-            className={`${styles.tableCell} ${className}`}
+            className={sx('p-4 text-neutral first:text-text', className)}
             style={{ float: align }}
         >
             {children}
@@ -57,7 +57,7 @@ const TableCell: FC<TableCellProps> = ({ children, className = '', align = 'inhe
 
 const TableRow: FC<TableRowProps> = ({ children, className = '' }) => {
     return (
-        <tr className={`${styles.tableRow} ${className}`}>
+        <tr className={sx('border-neutral border-solid border-1 pl-1 pr-1', className)}>
             {children}
         </tr>
     );
@@ -65,7 +65,7 @@ const TableRow: FC<TableRowProps> = ({ children, className = '' }) => {
 
 const TableHead: FC<TableHeadProps> = ({ children, className = '' }) => {
     return (
-        <thead className={`${styles.tableHead} ${className}`}>
+        <thead className={sx(className)}>
             {children}
         </thead>
     );
@@ -73,7 +73,7 @@ const TableHead: FC<TableHeadProps> = ({ children, className = '' }) => {
 
 const TableBody: FC<TableBodyProps> = ({ children, className = '' }) => {
     return (
-        <tbody className={`${styles.tableBody} ${className}`}>
+        <tbody className={sx(className)}>
             {children}
         </tbody>
     );
@@ -81,7 +81,7 @@ const TableBody: FC<TableBodyProps> = ({ children, className = '' }) => {
 
 const Table: FC<TableProps> = ({ children }) => {
     return (
-        <table className={styles.table}>
+        <table className={sx('border-neutral rounded-[6px] border-collapse border-hidden shadow-[0px_0px_0px_1px_#666] w-full')}>
             {children}
         </table>
     );

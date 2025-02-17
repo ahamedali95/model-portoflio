@@ -7,8 +7,8 @@ import { GET_HISTORICAL_PERFORMANCE } from '@api/queries';
 import TriangleIcon from '@assets/icons/triangle.svg';
 import { Button } from '@components/Button';
 import { Card, CardContent, CardHeader } from '@components/Card';
+import { sx } from '@util';
 
-import styles from './DashboardStyles.module.css';
 import type { HistoricalPerformance } from '../../../api-definitions';
 
 enum TimeSpan {
@@ -33,13 +33,13 @@ const HistoricalPerformance = () => {
     const historicalPerformance = data?.historicalPerformance;
 
     return (
-        <Card className={styles.card}>
+        <Card className={sx('h-24 min-h-0 mt-4')}>
             <CardHeader>
-                <div className={styles.cardHeader}>
+                <div className='flex flex-row justify-between items-center'>
                     <span>
                         Historical Performance
                     </span>
-                    <span className={styles.metrics}>
+                    <span className='font-bold color-accent-sucess flex flex-row items-center justify-center'>
                         <img
                             alt='logo'
                             src={TriangleIcon}
@@ -48,7 +48,7 @@ const HistoricalPerformance = () => {
                     </span>
                 </div>
             </CardHeader>
-            <CardContent className={styles.cardContent}>
+            <CardContent className='flex justify-end'>
                 {
                     Object.keys(TimeSpan)
                         .map((time) => {
@@ -56,7 +56,7 @@ const HistoricalPerformance = () => {
 
                             return (
                                 <Button
-                                    className={styles.timeSpanBtn}
+                                    className='min-w-0 w-16 h-4 leading-0 m-2'
                                     key={time}
                                     name='year'
                                     onClick={() => setTimeFrame(TimeSpan[timeKey])}

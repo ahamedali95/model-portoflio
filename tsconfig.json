@@ -3,7 +3,7 @@
       "target": "ESNext",
       "module": "ESNext",
       "jsx": "react",
-      "moduleResolution": "node",
+      "moduleResolution": "bundler",
       "esModuleInterop": true,
       "baseUrl": "./",
       "outDir": "dist",
@@ -31,7 +31,8 @@
         "@pages/*": ["src/pages/*"],
         "@components/*": ["src/components/*"],
         "@assets/*": ["src/assets/*"],
-        "@api/*": ["src/api/*"]
+        "@api/*": ["src/api/*"],
+        "@util": ["src/util"]
       }
     },
     "include": [

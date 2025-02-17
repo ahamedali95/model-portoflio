@@ -2,7 +2,7 @@ import React, {
     FC, ReactNode, createContext, useContext
 } from 'react';
 
-import styles from './TabStyles.module.css';
+import { sx } from '@util';
 
 const MyTabContext = createContext<{ tabValue: string } | null>(null);
 
@@ -42,7 +42,7 @@ const Tab: FC<TabProps> = ({ onClick = () => {}, children, value }) => {
 
     return (
         <h5
-            className={`${styles.tab} ${value === context?.tabValue ? styles.tabSelected : ''}`}
+            className={sx('font-bold text-sm hover:cursor-pointer pr-4 pt-4 pb-4 mt-1 mb-0 mr-2 leading-4 text-neutral', value === context?.tabValue && 'border-b-2 border-solid text-text')}
             onClick={() => onClick(value)}
         >
             {children}
@@ -52,7 +52,7 @@ const Tab: FC<TabProps> = ({ onClick = () => {}, children, value }) => {
 
 const TabList: FC<TabListProps> = ({ children, onChange }) => {
     return (
-        <div className={styles.tabListRootContainer}>
+        <div className={sx('flex flex-row border-b-2 border-neutral border-solid transition-0s mb-3')}>
             {
                 React.Children.map(children, (child, index) => {
                     return React.cloneElement(child, {

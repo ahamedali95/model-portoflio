@@ -1,3 +1,5 @@
+@import "tailwindcss";
+
 @font-face {
     font-family: 'inter';
     src: url('../assets/fonts/Inter-Regular.woff2') format('woff2');
@@ -19,12 +21,19 @@
     font-style: italic;
 }
 
+@theme {
+    --color-bg: #0D1D33;
+    --color-primary: #323E51;
+    --color-secondary: #1B293E;
+    --color-neutral: #4F5867;
+    --color-text: #A5AEB2;
+    --color-text-muted: #A5AEB2;
+    --color-accent-sucess: #3B9E46;
+    --font-inter: 'inter', san-serif;
+    --default-font-family: 'inter'
+}
+
 body {
-    background-color: var(--main-bg-color);
-    color: var(--text-color);
-    font-family: 'inter', sans-serif;
-    height: 100vh;
-    display: flex;
-    flex-direction: column;
+    @apply bg-bg font-inter text-text h-screen flex flex-col p-2
 }
   

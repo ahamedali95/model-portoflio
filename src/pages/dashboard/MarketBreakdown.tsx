@@ -20,7 +20,6 @@ import {
     TableRow
 } from '@components/Table';
 
-import styles from './DashboardStyles.module.css';
 import type { PartnerResponse, PortfolioBreakdown } from '../../../api-definitions';
 
 const MarketBreakdown = () => {
@@ -135,9 +134,9 @@ const MarketBreakdown = () => {
         <>
             {
                 !!marketBreakdown &&
-                <Card className={styles.marketBreakdownRoot}>
+                <Card className='mt-4'>
                     <CardHeader>
-                        <div className={styles.cardHeader}>
+                        <div className='flex flex-row justify-between items-center'>
                             <span style={{
                                 display: 'flex',
                                 alignItems: 'center'
@@ -145,13 +144,13 @@ const MarketBreakdown = () => {
                             >
                                 {!!lastRecord.view && <img
                                     alt='back-button'
-                                    className={styles.assetAllocationNavigation}
+                                    className='cursor-pointer'
                                     onClick={() => handleTransition('back')}
                                     src={BackIcon}
                                 />}
                                 {lastRecord.pageTitle}
                             </span>
-                            <span className={styles.assetTotal}>
+                            <span className='text-neutral'>
                                 {`${lastRecord.ids.length} assets`}
                             </span>
                         </div>
@@ -159,7 +158,7 @@ const MarketBreakdown = () => {
                     <CardContent>
                         {history.length === 2 && <Chip
                             border='square'
-                            className={styles.chip}
+                            className='ml-4 mt-3 mb-3'
                         >Show Direct-Indexed
                                                  </Chip>}
                         <Table>
@@ -168,7 +167,6 @@ const MarketBreakdown = () => {
                                     <TableCell>Asset</TableCell>
                                     <TableCell
                                         align='right'
-                                        className={styles.cell}
                                     >
                                         Allocation
                                     </TableCell>
@@ -184,18 +182,18 @@ const MarketBreakdown = () => {
                                                     <TableCell>
                                                         <span>
                                                             {id}
-                                                            <span className={styles.description}>
+                                                            <span className='ml-1.5 text-neutral'>
                                                                 {'description' in marketBreakdown[pageMapped][id] ? marketBreakdown[pageMapped][id].description : ''}
                                                             </span>
                                                         </span>
                                                     </TableCell>
                                                     <TableCell align='right'>
-                                                        <div className={styles.assetCell}>
+                                                        <div className='flex gap-8'>
                                                             <span>
                                                                 {marketBreakdown[pageMapped][id].allocation / 100}%
                                                             </span>
                                                             <span
-                                                                className={styles.assetAllocationNavigation}
+                                                                className='cursor-pointer'
                                                                 onClick={() => handleTransition('forward', marketBreakdown[pageMapped][id][nextPage], id)}
                                                             >
                                                                 {pageMapped !== 'securities' && '>'}
@@ -212,9 +210,9 @@ const MarketBreakdown = () => {
                                     <TableCell />
                                     <TableCell
                                         align='right'
-                                        className={styles.footer}
+                                        className='ml-10 mr-12'
                                     >
-                                        <span style={{ marginRight: '2rem' }}>
+                                        <span className='mr-8'>
                                             Total
                                         </span>
                                         <span>
